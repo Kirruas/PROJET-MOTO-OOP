@@ -1,0 +1,22 @@
+Roadster :
+vit max : 140/150 km/h
+position de conduite confo
+duo
+tour:5000tr/min
+matiere : acier
+
+Sportive :
+tour: 18000/min
+vit max 320km/h
+monoplace
+poid a l'avant conducteur
+carenage
+matiere : carbone
+
+tout terrain:
+distance amortisseur-garde boue
+vit max: 150km/h
+matiere : plastique
+cadre :  aluminium
+pneu : adherence 
+debout
